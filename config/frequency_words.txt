@@ -1,9 +1,17 @@
 @30
 人工智能
-AI
-生成式AI
-AI编程
-+技术
++AI
+技术
 !广告
 !培训
+
+@30
++AI
+Claude
+gemini
+OpenAI
+编程
+[WORD_GROUPS]
+科技
+AI
 
