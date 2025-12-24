@@ -1,17 +1,14 @@
 @30
-人工智能
 +AI
-技术
-!广告
-!培训
 
 @30
-+AI
 Claude
-gemini
+Google Gemini
 OpenAI
 编程
+
+@30
+AI工具
 [WORD_GROUPS]
-科技
 AI
 
